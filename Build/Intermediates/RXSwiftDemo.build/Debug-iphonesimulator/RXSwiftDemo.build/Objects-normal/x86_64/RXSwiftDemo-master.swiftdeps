@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6183f9948d7490236c234a908739c191"
+build_time: [1518123885, 289432000]
+inputs:
+  "/Users/umashankar/Documents/Sample projects/RXSwiftDemo/RXSwiftDemo/ViewController.swift": [1518123881, 0]
+  "/Users/umashankar/Documents/Sample projects/RXSwiftDemo/RXSwiftDemo/AppDelegate.swift": [1518123881, 0]
